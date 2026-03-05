@@ -27,10 +27,5 @@ BeetleBot is a compact robotic platform designed for surface exploration and cro
 
 ## Open-Source Models
 
-The 3D model files are provided in this repository:
-
-- **Dual-Camera Device**: located in the `dual-camera/` folder  
-- **BeetleBot Platform**: located in the `BeetleBot/` folder
-
-These models can be used for reproduction, modification, or further research.
+The 3D model files are provided in `3D-model` file under this repo.
 
